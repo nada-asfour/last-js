@@ -1,0 +1,9 @@
+body{
+    height: 5000px;
+    position: relative;
+}
+nav.navbar{
+position: fixed;
+width: 100%;
+transition: all .5s linear ;
+}
